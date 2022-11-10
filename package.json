@@ -63,7 +63,7 @@
     "cors": "^2.8.5",
     "cross-env": "^6.0.3",
     "dotenv": "^8.2.0",
-    "electron": "^8.1.1",
+    "electron": "^18.3.7",
     "electron-builder": "^22.4.1",
     "electron-mocha": "^8.2.1",
     "electron-notarize": "^0.2.1",
