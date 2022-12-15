@@ -70,7 +70,7 @@
     "electron-windows-store": "^2.1.0",
     "eslint-config-google": "^0.14.0",
     "esm": "^3.2.25",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-session": "^1.17.0",
     "glob": "^7.1.6",
     "lit-element": "^2.3.0",
